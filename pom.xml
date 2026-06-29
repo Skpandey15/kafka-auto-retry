@@ -10,7 +10,7 @@
     </parent>
     <groupId>org.shanaka.test</groupId>
     <artifactId>kafka-auto-retry</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>kafka-auto-retry</name>
     <description>Demo project for Spring Boot</description>
 
